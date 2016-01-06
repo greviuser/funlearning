@@ -10,9 +10,16 @@
      
      
   2. Filosofi
-     Konsep Gampar muncul diilhami dari seorang Professor di Indiana University yang mengimplementasikan sebuah metode "gamification"      dalam kegiatan belajar mengajarnya di kelas. Lee Sheldon  merupakan pioneer dalam gamification in education. 
-     Menurutnya, game mengikat pemainnya secara emotional dan cognitively sehingga pemain termotivasi untuk terus bermain. Suasana         yang complex pada game membuat pemainnya bisa bermain sambil ber-eksperimen sekaligus problem solving dan juga quick 
-     thinking. Dalam game, peraturannya jelas, tugas (apa yang harus dikerjakan) jelas, ada imbalan (rewards) yang bisa 
+     Konsep Gampar muncul diilhami dari seorang Professor di Indiana University yang mengimplementasikan sebuah metode "gamification"      
+     dalam kegiatan belajar mengajarnya di kelas. Lee Sheldon  merupakan pioneer dalam gamification in education. 
+     Menurutnya, game mengikat pemainnya secara emotional dan cognitively sehingga pemain termotivasi untuk terus bermain. Suasana         
+     yang complex pada game membuat pemainnya bisa bermain sambil ber-eksperimen sekaligus problem solving dan juga quick 
+     thinking.  Mr Sheldon mengambil konsep game dari dunia multiplayer game fantasi dan pendesainan ulang program nya sesuai dengan
+     aplikasi menakjubkan pembelajaran berbasis tim. Menurut Mr Sheldon, metode pembelajaran ini menawarkan hadiah atas keberhasilan 
+     daripada hukuman atas kegagalannya. Game menurunkan taruhan kegagalan dan tidak memusatkan seluruh perhatian pada nilai. 
+     Hal ini tidak memerlukan beberapa fleksibilitas pada bagian pendidik untuk dapat merespon dan mendesain ulang 
+     ketika elemen tentu saja tidak berjalan seperti yang diharapkan.
+     Dalam game, peraturannya jelas, tugas (apa yang harus dikerjakan) jelas, ada imbalan (rewards) yang bisa 
      langsung didapatkan. Bahkan jika kita kalah atau gagal dalam bermain game, player akan termotivasi untuk bermain 
      terus karna paling tidak player sadar bahwa skill nya akan terus meningkat. Selain itu, game juga memberikan 
      kesempatan para pemainnya melakoni sebuah peran yang bukan dirinya.
@@ -75,6 +82,18 @@
             -Maks 200.000 XP dengan predikat A (sks 200)
             
      B. Badge
+        Badge name: Ini adalah macam macam nama Badge sementara, yang nantinya akan diperluas lagi setelah system GAMPAR mencapai status implementasi
+                    •	0 Day absent in a semester(50XP), berhasil mempunyai 0 absen dalam satu semester.
+                    •	Cum Laude(500XP), Berhasil mencapai nilai terbaik & banyak pujian.
+                    •	First Step of Socialize(50XP), berhasil mengikuti kegiatan non-akademik pertama anda.
+                    •	My First High Score(100XP), berhasil mencapai score terbaik pertama anda dalam mata kuliah manapun.
+                    •	My Firstday GTS(Go To School)(10XP), Hari pertama anda sekolah.
+                    •	Master of Socialize(150XP), Berhasil mencapai score minimum syarat lulus non-akademik.
+                    •	THE WORLD WILL KNOW MY NAME!(250XP), didapatkan dengan mengikuti kompetisi international.
+                    •	I can change the world!!!(500XP),  berhasil menciptakan sesuatu dan di sorot hasil resultnya di media social.
+                    •	The Best XP of the month(100XP), berhasil mencapai XP terbaik di salah satu mata kuliah dalam satu bulan.
+                    •	My First Tournament(50XP), berhasil didapatkan dengan mengikuti tournament jenis apapun.
+
      C. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
     
