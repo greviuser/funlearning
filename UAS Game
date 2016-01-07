@@ -1,10 +1,16 @@
                                                      GAMPAR DOCUMENTATION
   1. Overview
-     Sampai detik ini, pendidikan di Indonesia masih dikatakan kurang baik. Banyak hal yang membuat mutu pendidikan di Indonesia belum      baik, mulai dari kurikulum pendidikan yang setiap tahun berubah-ubah, standard nilai yang setiap tahun semakin tinggi namun tidak      didukung dengan fasilitas pendidikan yang mumpuni, banyaknya mata pelajaran yang harus ditempuh oleh pelajar, dan sebagainya.
-     Hal ini memberikan dampak buruk bagi pelaku pendidikan itu sendiri, yaitu pelajar dan mahasiswa. Kita bisa lihat bahwa di Negeri      ini sangat banyak pelajar maupun mahasiswa yang sekolah hanya sebagai formalitas, menanggalkan kewajiban yaitu belajar. Sehingga      banyak kita temui pelajar atau mahasiswa yang mencontek saat ujian berlangsung, tujuannya sudah berbeda, bukannya untuk memahami      dan menguasai mata pelajaran melainkan demi dapat lulus dengan nilai yang baik. Hasilnya, banyak anak-anak Indonesia yang      
+     Sampai detik ini, pendidikan di Indonesia masih dikatakan kurang baik. Banyak hal yang membuat mutu pendidikan di Indonesia belum      
+     baik, mulai dari kurikulum pendidikan yang setiap tahun berubah-ubah, standard nilai yang setiap tahun semakin tinggi namun tidak      
+     didukung dengan fasilitas pendidikan yang mumpuni, banyaknya mata pelajaran yang harus ditempuh oleh pelajar, dan sebagainya.
+     Hal ini memberikan dampak buruk bagi pelaku pendidikan itu sendiri, yaitu pelajar dan mahasiswa. Kita bisa lihat bahwa di Negeri      
+     ini sangat banyak pelajar maupun mahasiswa yang sekolah hanya sebagai formalitas, menanggalkan kewajiban yaitu belajar. Sehingga      
+     banyak kita temui pelajar atau mahasiswa yang mencontek saat ujian berlangsung, tujuannya sudah berbeda, bukannya untuk memahami      
+     dan menguasai mata pelajaran melainkan demi dapat lulus dengan nilai yang baik. Hasilnya, banyak anak-anak Indonesia yang      
      memiliki attitude buruk dan tidak cerdas.
      
-     Namun kita tidak dapat menyalahkan pelajar maupun mahasiswa. Jelas ada kesalahan dalam metode pendidikan di Indonesia, sehingga       para pengemban ilmu di Negeri ini banyak yang malas-malasan dalam belajar bahkan stress karena tuntunan nilai yang tinggi. 
+     Namun kita tidak dapat menyalahkan pelajar maupun mahasiswa. Jelas ada kesalahan dalam metode pendidikan di Indonesia, sehingga       
+     para pengemban ilmu di Negeri ini banyak yang malas-malasan dalam belajar bahkan stress karena tuntunan nilai yang tinggi. 
      Untuk itu, muncullah "Gampar" (Gamification in Paramadina) yaitu sebuah metode pembelajaran yang berlandaskan kesenangan, agar 
      pelajar dan mahasiswa bisa semangat belajar dan bisa menggali bakat serta mengembangkan kemampuan yang mereka miliki.
      
@@ -81,6 +87,30 @@
             -Min 57.744 XP dengan predikat C (sks 144)
             -Maks 200.000 XP dengan predikat A (sks 200)
             
+        > XP untuk pembelian/pembayaran SKS
+          Fungsi XP disini adalah juga untuk membeli SKS, sama seperti di akademik biasa. Yang biasanya IP
+          digunakan juga untuk batas pengambilan SKS untuk semester berikutnya. Contoh :
+          
+          600XP * 21 SKS = 12600 ( ini minimal XP satu semester yang biasanya di dapet dengan syarat lulus minimal yaitu C semua dalam semua mata kuliah )
+          21 SKS = 12600 ( Biasanya klo di IP 2,Sekian )
+          
+          1 SKS = 250XP
+          2 SKS = 450XP
+          3 SKS = 650XP
+          
+          INI CONTOH Matakuliah yang mau diambil
+          AP3(3 SKS).
+          Game Komputer(3 SKS).
+          Pendidikan Kewarganegaraan (2 SKS).
+          SIM (3 SKS).
+          HCI (3. SKS).
+          BE (3 SKS).
+          Praktek AP3 (1 SKS).
+          SISTEM OPERASI (3 SKS).
+          
+          Maka untuk berhasil ambil mata kuliah diatas membutuhkan 12400.
+          kita bisa membeli matakuliah asalkan jumlah total SKS yang kita ambil tidak melebihi diatas riwayat XP semester kita sebelumnya yaitu 12600
+            
      B. Badge
         Western Oklahoma State College menerapkan bentuk gamification dalam kelas teknologi mereka. Dimana untuk setiap 
         tugas yang diselesaikan, siswa diberi penghargaan berupa badges. Pada sistem kita, badges yang diberikan adalah
@@ -88,7 +118,7 @@
         challenge yang sudah di sediakan dari awal kuliah. Agar badge yang kita miliki bisa dibanggakan, challenge yang
         ditawarkan juga tidak mudah. Misalkan menyelesaikan ujian dengan sempurna dalam 3 menit, atau memenangkan kejuaraan
         karate 5x berturut-turut.
-
+     
         Badge name: Ini adalah macam macam nama Badge sementara, yang nantinya akan diperluas lagi setelah system GAMPAR mencapai status implementasi
                     •	0 Day absent in a semester(50XP), berhasil mempunyai 0 absen dalam satu semester.
                     •	Cum Laude(500XP), Berhasil mencapai nilai terbaik & banyak pujian.
@@ -100,8 +130,17 @@
                     •	I can change the world!!!(500XP),  berhasil menciptakan sesuatu dan di sorot hasil resultnya di media social.
                     •	The Best XP of the month(100XP), berhasil mencapai XP terbaik di salah satu mata kuliah dalam satu bulan.
                     •	My First Tournament(50XP), berhasil didapatkan dengan mengikuti tournament jenis apapun.
-
-     C. Paramadina Biggest Competition
+                    
+     C. Reward
+        Memberikan penghargaan kepada seseorang akan membuatnya merasa senang dan dihargai. begitu juga dengan mahasiswa 
+        memberikan penghargaan kepada mahasiswa akan membuat mahasiswa senang dan antusias.
+        Jika sistem reward diimplementasikan ke kegiatan belajar mengajar (kbm) maka keadaan kelas akan lebih menyenangkan. 
+        Contohnya, jika pengajar memberikan pertanyaan-pertanyaan untuk mahasiswa
+        dengan memberikannya pengahargaan seperti bonus XP atau hadiah yang lain maka mahasiswa-mahasiswa di kelas tersebut akan
+        lebih antusias dan dengan semangat mencari dan berpikir jawaban atas pertanyaan yang diberikan
+        mahasiswa yang dapat menjawab dengan bagus dan tepat akan mendapatkan hadiah sesuai yang dijanjikan.
+     
+     D. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
     
       - Mahasiswa : Mahasiswa adalah pemeran utama pada sistem pembelajaran ini dan kepuasan dan ke antusiasan meraka untuk 
